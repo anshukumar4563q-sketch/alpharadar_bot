@@ -1,3 +1,5 @@
 requests
 feedparser
 google-genai
+apscheduler
+python-telegram-bot
